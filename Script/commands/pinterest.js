@@ -1,8 +1,8 @@
 module.exports.config = {
-    name: "pinterest",
+    name: "pin",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁",
+    credits: "Araf 69",
     description: "Image search",
     commandCategory: "Search",
     usages: "[Text]",
